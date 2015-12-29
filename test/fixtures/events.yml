@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  venue_id: 1
+  date: 2015-12-29 14:18:30
+  time: 2015-12-29 14:18:30
+  type: 
+
+two:
+  venue_id: 1
+  date: 2015-12-29 14:18:30
+  time: 2015-12-29 14:18:30
+  type: 
