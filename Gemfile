@@ -45,3 +45,8 @@ group :development do
   gem 'spring'
 end
 
+# Adding addition gems
+gem 'pry'
+gem 'annotate'
+gem 'figaro'
+
